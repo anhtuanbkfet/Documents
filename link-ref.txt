@@ -1,0 +1,6 @@
+camera:
+https://sketchfab.com/3d-models/camera-3db3b0ffa48945e888eb83e3d8139018
+island:
+https://sketchfab.com/3d-models/tropical-island-f91862f8c38b481aa19edccac851eefb
+model:
+https://sketchfab.com/3d-models/dustin-stranger-things-92d6861b1f114208b645ad9c02ef5c6e
